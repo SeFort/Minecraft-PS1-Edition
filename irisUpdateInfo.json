@@ -1,0 +1,9 @@
+{
+  "semanticVersion": "1.5.0",
+  "updateInfo": {
+    "en_us": "Iris 1.5 has released, with support for almost all Optifine shaderpacks. Download it at: {link}"
+  },
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/iris",
+  "installer": "https://irisshaders.net"
+}
