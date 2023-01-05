@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/MultiMC/instances/1.19.21/.minecraft/saves/Box
+}
+
