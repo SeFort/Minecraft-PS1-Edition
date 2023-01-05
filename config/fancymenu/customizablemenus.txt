@@ -1,0 +1,35 @@
+type = customizablemenus
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_446 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_412 {
+}
+
